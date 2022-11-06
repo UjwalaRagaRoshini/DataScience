@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 #importing the dataset
 
 data=pd.read_csv("D:\csvfiles\LinearR.csv") # I had created my own datafile
- 
+ 675664fgjip9-p[l
  
 #data that i had created
 #x	y
